@@ -10,10 +10,16 @@
 
 <div align="justify">
 Este projeto realiza uma análise descritiva dos microdados do ENEM 2022, fornecidos pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP). Os microdados contêm informações detalhadas sobre os participantes do Exame Nacional do Ensino Médio (ENEM), incluindo dados socioeconômicos, desempenho nas provas, e muito mais.
-  
-A análise busca explorar e visualizar tendências, padrões e insights importantes contidos nesses dados, utilizando ferramentas de programação em Python. 
+
+
+
+
+
+
+A análise busca explorar e visualizar tendências, padrões e insights importantes contidos nesses dados, utilizando ferramentas de programação em Python.
 
 A base de dados pode ser acessada pelo link: [Divulgados microdados do Enem 2022](https://www.gov.br/inep/pt-br/assuntos/noticias/enem/divulgados-microdados-do-enem-2022)
+
 
 </div>
 
